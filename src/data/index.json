@@ -4,48 +4,51 @@
         "id": "1",
         "src": "./img/app-dev.png",
         "title": "App Development",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "Flutter developer skilled in building cross-platform mobile applications. Passionate about creating user-friendly and high-performance apps with seamless UI/UX designs. Strong problem-solving abilities."
       },
       {
         "id": "2",
         "src": "./img/web-development.png",
         "title": "Web Development",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "Web developer specializing in React. Able to build responsive and dynamic web applications with a focus on performance and user experience. Skilled in JavaScript, HTML, CSS, and modern web technologies."
       },
       {
         "id": "3",
         "src": "./img/github.png",
         "title": "Git & Github",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "Proficient developer  in Git and GitHub. Skilled in version control, branch management, and collaborative coding. Adept at resolving merge conflicts and optimizing workflows for efficient project management."
       },
       {
         "id": "4",
         "src": "./img/database.png",
         "title": "Database & Management",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "Skilled developer in DBMS. Proficient in SQL, database design, and performance optimization. Adept at managing data integrity and creating efficient, scalable database solutions."
       }
     ],
     "portfolio": [
       {
         "id": "1",
-        "src": "./img/placeholder-image.png",
-        "title": "Ahuse",
+        "src": "./img/Blueprint.png",
+        "title": "BluePrint",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "link": "View In Github"
+        "link": "View In Youtube",
+        "href": "*"
       },
       {
         "id": "2",
-        "src": "./img/placeholder-image-1.png",
-        "title": "App Dashboard",
+        "src": "./img/amazon.png",
+        "title": "Amazon clone",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "link": "View In Github"
+        "link": "View In Github",
+        "href": "*"
       },
       {
         "id": "3",
-        "src": "./img/placeholder-image-2.png",
-        "title": "Easy Rentn",
+        "src": "./img/chat.png",
+        "title": "Chatify",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "link": "View In Github"
+        "link": "View In Github",
+        "href": "*"
       }
     ],
     "testimonial": [
