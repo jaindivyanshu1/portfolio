@@ -37,14 +37,11 @@ function Navbar() {
       <div>
         <img src="./img/my_logo.png" alt="Logoipsum" />
       </div>
-      <a
-        className={`nav__hamburger ${navActive ? "active" : ""}`}
-        onClick={toggleNav}
-      >
+      <button className={`nav__hamburger ${navActive ? "active" : ""}`} onClick={toggleNav}>
         <span className="nav__hamburger__line"></span>
         <span className="nav__hamburger__line"></span>
         <span className="nav__hamburger__line"></span>
-      </a>
+      </button>
       <div className={`navbar--items ${navActive ? "active" : ""}`}>
         <ul>
           <li>
