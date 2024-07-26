@@ -30,25 +30,25 @@
         "id": "1",
         "src": "./img/Blueprint.png",
         "title": "BluePrint",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "description": "Fingerprint Attendance System, developed in flutter using application development standered. This project use Flutter, C++, ESP 32, Fingerprint Sensor, Firebase, Git, and Github.",
         "link": "View In Youtube",
-        "href": "*"
+        "href": ""
       },
       {
         "id": "2",
         "src": "./img/amazon.png",
         "title": "Amazon clone",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "description": "This app allows users to shop by  searching or selecting categories and features a robust rating system. This Project use Flutter, NodeJS, MongoDB, Cloudinary as tech stack",
         "link": "View In Github",
-        "href": "*"
+        "href": ""
       },
       {
         "id": "3",
         "src": "./img/chat.png",
         "title": "Chatify",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "description": "This app allows users to communicate with anonymous persons. Robust UI with real time updates. This Project use Flutter, Firebase, Firestore, NodeJS as tech stack",
         "link": "View In Github",
-        "href": "*"
+        "href": ""
       }
     ],
     "testimonial": [

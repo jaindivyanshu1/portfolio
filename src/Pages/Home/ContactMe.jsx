@@ -46,7 +46,8 @@ export default function ContactMe() {
         <p className="sub--title">Get In Touch</p>
         <h2>Contact Me</h2>
         <p className="text-lg">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. In, odit.
+          If you have any questions or would like to work together, feel free to
+          contact me.
         </p>
       </div>
       <form className="contact--form--container" onSubmit={handleSubmit}>
@@ -110,9 +111,9 @@ export default function ContactMe() {
             onChange={handleChange}
           >
             <option value="">Select One...</option>
-            <option value="Item 1">Item 1</option>
-            <option value="Item 2">Item 2</option>
-            <option value="Item 3">Item 3</option>
+            <option value="Item 1">Imidiate contact</option>
+            <option value="Item 2">Refere me to other company</option>
+            <option value="Item 3">Something else</option>
           </select>
         </label>
         <label htmlFor="message" className="contact--label">

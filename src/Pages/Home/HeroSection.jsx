@@ -11,7 +11,7 @@ export default function HeroSection() {
 
   useEffect(() => {
     const options = window.innerWidth > 1200 ? {
-      strings: ["Let's make engineering beautiful together"],
+      strings: ["Let's make engineering beautiful together....."],
       typeSpeed: 60,
       backSpeed: 30,
       backDelay: 2000,
@@ -59,6 +59,7 @@ export default function HeroSection() {
             My Resume
             </a>
           }
+          
         </div>
         <div className="hero--section--img">
           { //<img src="./img/hero_img.png" alt="Hero Section" /> 
